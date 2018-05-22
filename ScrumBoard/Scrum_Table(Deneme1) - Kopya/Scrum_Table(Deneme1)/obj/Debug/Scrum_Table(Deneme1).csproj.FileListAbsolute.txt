@@ -1,0 +1,83 @@
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe.config
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Form1.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Properties.Resources.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryForm.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.GenerateResource.cache
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).exe
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.ScrumForm.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryBilgiFrm.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1)\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.TaskBilgiFrm.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe.config
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Form1.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Properties.Resources.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.ScrumForm.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryBilgiFrm.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryForm.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.TaskBilgiFrm.resources
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.GenerateResource.cache
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).exe
+C:\Users\Akın\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe.config
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Form1.resources
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Properties.Resources.resources
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.ScrumForm.resources
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryBilgiFrm.resources
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryForm.resources
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.TaskBilgiFrm.resources
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.GenerateResource.cache
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).exe
+C:\Users\Akın\Desktop\Yazılım_Yapımı(Projesi)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe.config
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).exe
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Form1.resources
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Properties.Resources.resources
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.ScrumForm.resources
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryBilgiFrm.resources
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryForm.resources
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.TaskBilgiFrm.resources
+C:\Users\HP\Desktop\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.GenerateResource.Cache
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe.config
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).pdb
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csprojResolveAssemblyReference.cache
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Form1.resources
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Properties.Resources.resources
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.ScrumForm.resources
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryBilgiFrm.resources
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryForm.resources
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.TaskBilgiFrm.resources
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.GenerateResource.cache
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.CoreCompileInputs.cache
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).exe
+E:\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Form1.resources
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.Properties.Resources.resources
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.ScrumForm.resources
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryBilgiFrm.resources
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.StoryForm.resources
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table_Deneme1_.TaskBilgiFrm.resources
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.GenerateResource.cache
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).exe
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\obj\Debug\Scrum_Table(Deneme1).pdb
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe.config
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).exe
+C:\Users\Akın\Desktop\YYPROJE(SON HALİ)\Scrum_Table(Deneme1) - Kopya\Scrum_Table(Deneme1)\bin\Debug\Scrum_Table(Deneme1).pdb
